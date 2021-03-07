@@ -1,0 +1,10 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "qlink",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
